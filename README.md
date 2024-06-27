@@ -8,3 +8,4 @@
 3. Give the token a name you like and create your token.
 # Example usage
 Let's say you have the following long url : `https://www.example.com/this-is-a-very-long-url-that-needs-to-be-shortened`, when you run the script with this long url, it should return a shortened url link
+# Screenshot image
